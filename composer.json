@@ -1,0 +1,21 @@
+{
+  "name": "ruoshuiyx/php-builder",
+  "description": "Hello, Builder!",
+  "type": "library",
+  "require": {
+    "php": ">=7.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "siyu",
+      "email": "407593529@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "ruoshuiyx\\builder\\": "src"
+    }
+  }
+}
