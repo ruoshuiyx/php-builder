@@ -5,6 +5,7 @@ class FormBuilder
 {
     public static function test()
     {
-        echo "Hello, Composer!", PHP_EOL;
+        echo "Hello, Builder!", PHP_EOL;
     }
+
 }
